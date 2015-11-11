@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>Package</id>
+		<version>1.0.0-beta</version>
+		<authors>IntelliSun</authors>
+		<owners>IntelliSun</owners>
+		<licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+		<projectUrl>https://github.com/IntelliSun/IntelliSun-Core</projectUrl>
+		<iconUrl>https://raw.githubusercontent.com/IntelliSun/IntelliSun-Core/master/public/Logos/icon_low_intellisun.png</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>IntelliSun porject core library.</description>
+		<releaseNotes>First release.</releaseNotes>
+		<copyright>Copyright IntelliSun 2015</copyright>
+		<tags>IntelliSun</tags>
+		<dependencies>
+
+		</dependencies>
+	</metadata>
+	<files>
+		<file src=".\lib\**\*.dll" target="lib" />
+		<file src=".\content\**\*" target="content" />
+		<file src=".\tools\**\*" target="tools" />
+	</files>
+</package>

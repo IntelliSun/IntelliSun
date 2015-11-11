@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IntelliSun</id>
+    <version>1.0.0</version>
+    <authors>IntelliSun</authors>
+    <owners>IntelliSun</owners>
+    <licenseUrl>https://raw.githubusercontent.com/IntelliSun/IntelliSun-Core/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/IntelliSun/IntelliSun-Core</projectUrl>
+	<iconUrl>https://raw.githubusercontent.com/IntelliSun/IntelliSun-Core/master/public/Logos/icon_low_intellisun.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>IntelliSun porject core library.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright IntelliSun 2015</copyright>
+    <tags>IntelliSun ISSC</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
